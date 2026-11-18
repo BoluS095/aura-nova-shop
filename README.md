@@ -1,2 +1,6 @@
-# aura-nova-shop
-Official AURA NOVA Scandinavian Smart Living, LED Beauty &amp; Pet Care Instant-Checkout Catalog (-20% Code FLASH20)
+# ✨ AURA NOVA — Official Instant-Checkout & SEO Product Hub
+
+- **Official Storefront**: [https://z03cia-1r.myshopify.com](https://z03cia-1r.myshopify.com)
+- **Live Instant-Checkout Hub**: [https://bolus095.github.io/aura-nova-shop/](https://bolus095.github.io/aura-nova-shop/)
+- **Active Storewide Promo Code**: `FLASH20` (**20% OFF** all products & bundles)
+- **Shipping**: **FREE Insured Express Shipping** on all orders over **500 NOK** across Norway, EU, UK, USA & Canada.
